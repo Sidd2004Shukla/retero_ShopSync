@@ -1,7 +1,7 @@
-### Description:
+# Description:
 This Android app uses Retrofit to fetch product data from an API (`https://dummyjson.com/products`) and displays it in a `RecyclerView` with detailed product information like title, price, brand, and description. It implements edge-to-edge UI for a modern look.
 
-# Retrofit API Example for Android
+## Retrofit API Example for Android
 
 This project demonstrates how to fetch and display product data using Retrofit in an Android application.
 
